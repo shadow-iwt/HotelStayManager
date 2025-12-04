@@ -148,4 +148,3 @@ This project is licensed under the MIT License.
 - Built with [shadcn/ui](https://ui.shadcn.com/)
 - Powered by [Drizzle ORM](https://orm.drizzle.team/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
-
